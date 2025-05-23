@@ -81,3 +81,10 @@
 [2025-05-23T13:04:41.5972180Z] skriptenshop.eu → Status=503, Reachable=False, ResponseTime=1546ms, CertPresent=True, CertExpiry=2025-05-25T07:51:32.0000000Z
 [2025-05-23T13:04:41.6360528Z] mfg.at → Status=200, Reachable=True, ResponseTime=31ms, CertPresent=True, CertExpiry=2025-07-23T04:47:25.0000000Z
 
+[2025-05-23T13:55:24.8583076Z] START – URLs: daneli.eu, skriptenshop.eu, mfg.at, facebook.com, youtube.com
+[2025-05-23T13:55:25.5279299Z] daneli.eu → Status=200, Reachable=True, ResponseTime=656ms, CertPresent=True, CertExpiry=2025-07-01T08:29:27.0000000Z
+[2025-05-23T13:55:25.5471398Z] skriptenshop.eu → Status=503, Reachable=False, ResponseTime=10ms, CertPresent=True, CertExpiry=2025-05-25T07:51:32.0000000Z
+[2025-05-23T13:55:25.5911768Z] mfg.at → Status=200, Reachable=True, ResponseTime=35ms, CertPresent=True, CertExpiry=2025-07-23T04:47:25.0000000Z
+[2025-05-23T13:55:25.8850430Z] facebook.com → Status=200, Reachable=True, ResponseTime=278ms, CertPresent=True, CertExpiry=2025-05-30T23:59:59.0000000Z
+[2025-05-23T13:55:26.2414014Z] youtube.com → Status=200, Reachable=True, ResponseTime=315ms, CertPresent=True, CertExpiry=2025-07-22T19:28:21.0000000Z
+
