@@ -21,8 +21,8 @@ curl -X POST http://localhost:7071/api/UrlHealthCheck \
      -d @test_urls.json
 
 Um das JSON "lesbarer" machen haben wir ein node.js package verwendet welches man mit "npm install -g prettier" installieren kann
-Dann kann man mit folgenden Befehl das JSON formatieren: prettier --parser json results.json --write pretty_results.json
-Ansonsten ist alles in einer Zeile. (war nicht gegeben sieht aber schöner aus)
+Dann kann man mit folgenden Befehl das JSON formatieren:
+prettier --parser json results.json --write pretty_results.json
 
 in Root Ordner wird automatisch ein File logs.txt angelegt, nach jeder Ausführung wird dort zusätzlich mitgeloggt, wann die Funktion gestartet wurde und welche Websiten getestet wurden.
 
