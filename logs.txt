@@ -1,0 +1,83 @@
+[2025-05-22T17:00:42.8893245Z] START – URLs: orf.at, fh-joanneum.at, mfg.at, facebook.com, instagram.com, httpbin.org/status/500, httpbin.org/status/404, fehlerhaftedomain.com, amazon.com, youtube.com, asdasd2
+[2025-05-22T17:00:43.1349008Z] orf.at → Status=200, Reachable=True, ResponseTime=243ms
+[2025-05-22T17:00:44.1217101Z] fh-joanneum.at → Status=200, Reachable=True, ResponseTime=985ms
+[2025-05-22T17:00:44.4322064Z] mfg.at → Status=200, Reachable=True, ResponseTime=309ms
+[2025-05-22T17:00:45.4320761Z] facebook.com → Status=200, Reachable=True, ResponseTime=999ms
+[2025-05-22T17:00:46.1962806Z] instagram.com → Status=200, Reachable=True, ResponseTime=763ms
+[2025-05-22T17:00:48.5571500Z] httpbin.org/status/500 → Status=500, Reachable=False, ResponseTime=2360ms
+[2025-05-22T17:00:53.6690563Z] httpbin.org/status/404 → Status=404, Reachable=False, ResponseTime=5111ms
+[2025-05-22T17:00:53.7000469Z] fehlerhaftedomain.com → Status=-1, Reachable=False, ResponseTime=30ms
+[2025-05-22T17:00:54.9557890Z] amazon.com → Status=200, Reachable=True, ResponseTime=1255ms
+[2025-05-22T17:00:55.5805130Z] youtube.com → Status=200, Reachable=True, ResponseTime=624ms
+[2025-05-22T17:00:58.2479973Z] asdasd2 → Status=-1, Reachable=False, ResponseTime=2666ms
+
+[2025-05-22T17:37:45.0397939Z] START – URLs: orf.at, fh-joanneum.at, mfg.at, facebook.com, instagram.com, httpbin.org/status/500, httpbin.org/status/404, fehlerhaftedomain.com, amazon.com, youtube.com, asdasd2
+[2025-05-22T17:37:45.2751164Z] orf.at → Status=200, Reachable=True, ResponseTime=234ms
+[2025-05-22T17:37:46.2320655Z] fh-joanneum.at → Status=200, Reachable=True, ResponseTime=956ms
+[2025-05-22T17:37:46.4722183Z] mfg.at → Status=200, Reachable=True, ResponseTime=239ms
+[2025-05-22T17:37:47.2916907Z] facebook.com → Status=200, Reachable=True, ResponseTime=818ms
+[2025-05-22T17:37:47.9930165Z] instagram.com → Status=200, Reachable=True, ResponseTime=700ms
+[2025-05-22T17:37:49.0384205Z] httpbin.org/status/500 → Status=500, Reachable=False, ResponseTime=1044ms
+[2025-05-22T17:37:50.6746156Z] httpbin.org/status/404 → Status=404, Reachable=False, ResponseTime=1635ms
+[2025-05-22T17:37:50.7055534Z] fehlerhaftedomain.com → Status=-1, Reachable=False, ResponseTime=30ms
+[2025-05-22T17:37:51.8855267Z] amazon.com → Status=200, Reachable=True, ResponseTime=1179ms
+[2025-05-22T17:37:52.7454019Z] youtube.com → Status=200, Reachable=True, ResponseTime=859ms
+[2025-05-22T17:37:55.4185365Z] asdasd2 → Status=-1, Reachable=False, ResponseTime=2672ms
+
+[2025-05-22T17:41:31.9112837Z] START – URLs: orf.at, fh-joanneum.at, mfg.at, facebook.com, instagram.com, httpbin.org/status/500, httpbin.org/status/404, fehlerhaftedomain.com, amazon.com, youtube.com, asdasd2
+[2025-05-22T17:41:32.1151428Z] orf.at → Status=200, Reachable=True, ResponseTime=203ms
+[2025-05-22T17:41:33.1480685Z] fh-joanneum.at → Status=200, Reachable=True, ResponseTime=1032ms
+[2025-05-22T17:41:33.3510268Z] mfg.at → Status=200, Reachable=True, ResponseTime=202ms
+[2025-05-22T17:41:34.1708555Z] facebook.com → Status=200, Reachable=True, ResponseTime=819ms
+[2025-05-22T17:41:34.7790922Z] instagram.com → Status=200, Reachable=True, ResponseTime=607ms
+[2025-05-22T17:41:35.9754067Z] httpbin.org/status/500 → Status=500, Reachable=False, ResponseTime=1195ms
+[2025-05-22T17:41:39.6892533Z] httpbin.org/status/404 → Status=404, Reachable=False, ResponseTime=3713ms
+[2025-05-22T17:41:39.7163758Z] fehlerhaftedomain.com → Status=-1, Reachable=False, ResponseTime=26ms
+[2025-05-22T17:41:40.9029437Z] amazon.com → Status=200, Reachable=True, ResponseTime=1186ms
+[2025-05-22T17:41:41.6255863Z] youtube.com → Status=200, Reachable=True, ResponseTime=722ms
+[2025-05-22T17:41:44.3182661Z] asdasd2 → Status=-1, Reachable=False, ResponseTime=2692ms
+
+[2025-05-22T17:48:57.3806968Z] START – URLs: orf.at, fh-joanneum.at, mfg.at, facebook.com, instagram.com, httpbin.org/status/500, httpbin.org/status/404, fehlerhaftedomain.com, amazon.com, youtube.com, asdasd2
+[2025-05-22T17:48:57.6243280Z] orf.at → Status=200, Reachable=True, ResponseTime=241ms
+[2025-05-22T17:48:58.6270923Z] fh-joanneum.at → Status=200, Reachable=True, ResponseTime=1001ms
+[2025-05-22T17:48:58.8232442Z] mfg.at → Status=200, Reachable=True, ResponseTime=195ms
+[2025-05-22T17:48:59.7230508Z] facebook.com → Status=200, Reachable=True, ResponseTime=899ms
+[2025-05-22T17:49:00.4330555Z] instagram.com → Status=200, Reachable=True, ResponseTime=709ms
+[2025-05-22T17:49:10.4577045Z] httpbin.org/status/500 → Status=-1, Reachable=False, ResponseTime=10024ms
+[2025-05-22T17:49:12.7496249Z] httpbin.org/status/404 → Status=404, Reachable=False, ResponseTime=2291ms
+[2025-05-22T17:49:12.7809652Z] fehlerhaftedomain.com → Status=-1, Reachable=False, ResponseTime=30ms
+[2025-05-22T17:49:13.7815231Z] amazon.com → Status=200, Reachable=True, ResponseTime=999ms
+[2025-05-22T17:49:14.4498594Z] youtube.com → Status=200, Reachable=True, ResponseTime=667ms
+[2025-05-22T17:49:17.1050064Z] asdasd2 → Status=-1, Reachable=False, ResponseTime=2654ms
+
+[2025-05-23T12:58:38.0201826Z] START – URLs: orf.at, fh-joanneum.at, mfg.at, facebook.com, instagram.com, httpbin.org/status/500, httpbin.org/status/404, fehlerhaftedomain.com, amazon.com, youtube.com, asdasd2
+[2025-05-23T12:58:38.0787219Z] orf.at → Status=200, Reachable=True, ResponseTime=51ms
+[2025-05-23T12:58:38.7948777Z] fh-joanneum.at → Status=200, Reachable=True, ResponseTime=712ms
+[2025-05-23T12:58:38.8330847Z] mfg.at → Status=200, Reachable=True, ResponseTime=35ms
+[2025-05-23T12:58:39.1116849Z] facebook.com → Status=200, Reachable=True, ResponseTime=275ms
+[2025-05-23T12:58:39.6300978Z] instagram.com → Status=200, Reachable=True, ResponseTime=513ms
+[2025-05-23T12:58:42.2645784Z] httpbin.org/status/500 → Status=500, Reachable=False, ResponseTime=2632ms
+[2025-05-23T12:58:52.2763907Z] httpbin.org/status/404 → Status=-1, Reachable=False, ResponseTime=10008ms
+[2025-05-23T12:58:52.2985991Z] fehlerhaftedomain.com → Status=-1, Reachable=False, ResponseTime=19ms
+[2025-05-23T12:58:53.1957323Z] amazon.com → Status=200, Reachable=True, ResponseTime=894ms
+[2025-05-23T12:58:53.6034888Z] youtube.com → Status=200, Reachable=True, ResponseTime=403ms
+[2025-05-23T12:58:53.6428747Z] asdasd2 → Status=-1, Reachable=False, ResponseTime=36ms
+
+[2025-05-23T13:03:17.8874441Z] START – URLs: orf.at, fh-joanneum.at, mfg.at, facebook.com, instagram.com, httpbin.org/status/500, httpbin.org/status/404, fehlerhaftedomain.com, amazon.com, youtube.com, asdasd2
+[2025-05-23T13:03:17.9542951Z] orf.at → Status=200, Reachable=True, ResponseTime=48ms, CertPresent=True, CertExpiry=2025-06-30T08:09:15.0000000Z
+[2025-05-23T13:03:18.6977207Z] fh-joanneum.at → Status=200, Reachable=True, ResponseTime=718ms, CertPresent=True, CertExpiry=2026-05-12T09:28:50.0000000Z
+[2025-05-23T13:03:18.7418689Z] mfg.at → Status=200, Reachable=True, ResponseTime=36ms, CertPresent=True, CertExpiry=2025-07-23T04:47:25.0000000Z
+[2025-05-23T13:03:19.0120368Z] facebook.com → Status=200, Reachable=True, ResponseTime=255ms, CertPresent=True, CertExpiry=2025-05-30T23:59:59.0000000Z
+[2025-05-23T13:03:19.6448760Z] instagram.com → Status=200, Reachable=True, ResponseTime=617ms, CertPresent=True, CertExpiry=2025-05-30T23:59:59.0000000Z
+[2025-05-23T13:03:20.3270642Z] httpbin.org/status/500 → Status=503, Reachable=False, ResponseTime=472ms, CertPresent=True, CertExpiry=2025-09-17T23:59:59.0000000Z
+[2025-05-23T13:03:20.6742475Z] httpbin.org/status/404 → Status=503, Reachable=False, ResponseTime=109ms, CertPresent=True, CertExpiry=2025-09-17T23:59:59.0000000Z
+[2025-05-23T13:03:20.6815031Z] fehlerhaftedomain.com → Status=-1, Reachable=False, ResponseTime=4ms, CertPresent=False, CertExpiry=
+[2025-05-23T13:03:21.8077653Z] amazon.com → Status=200, Reachable=True, ResponseTime=898ms, CertPresent=True, CertExpiry=2025-07-27T23:59:59.0000000Z
+[2025-05-23T13:03:22.1596628Z] youtube.com → Status=200, Reachable=True, ResponseTime=308ms, CertPresent=True, CertExpiry=2025-07-22T19:28:21.0000000Z
+[2025-05-23T13:03:22.2219185Z] asdasd2 → Status=-1, Reachable=False, ResponseTime=28ms, CertPresent=False, CertExpiry=
+
+[2025-05-23T13:04:38.4752794Z] START – URLs: daneli.eu, skriptenshop.eu, mfg.at
+[2025-05-23T13:04:40.0426695Z] daneli.eu → Status=200, Reachable=True, ResponseTime=1559ms, CertPresent=True, CertExpiry=2025-07-01T08:29:27.0000000Z
+[2025-05-23T13:04:41.5972180Z] skriptenshop.eu → Status=503, Reachable=False, ResponseTime=1546ms, CertPresent=True, CertExpiry=2025-05-25T07:51:32.0000000Z
+[2025-05-23T13:04:41.6360528Z] mfg.at → Status=200, Reachable=True, ResponseTime=31ms, CertPresent=True, CertExpiry=2025-07-23T04:47:25.0000000Z
+
